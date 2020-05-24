@@ -1,4 +1,4 @@
-DATE,Year,Moth,Day,Time,DateTime,X-ray,Solar wind speed,Solar wind density,Interplanetary Magnetic Field (Bz) ,DST,AE,Date,,Date,Timestamp,W,GCR
+DATE,Year,Moth,Day,Time,DateTime,Xray,SolarWindSpeed,SolarWindDensity,IMF,DST,AE,Date,,Date,Timestamp,W,GCR
 6/5/2013,2013,6,5,0:00,6/05/13 00:00,3.18E-07,541.9,1.6,0.6,-14,411,Jan-13,,Jan-13,1356998400,91.4,9305
 6/5/2013,2013,6,5,1:00,6/05/13 01:00,3.01E-07,527.1,1.6,1.0,-13,99,Feb-13,,Feb-13,1359676800,50.1,9179
 6/5/2013,2013,6,5,2:00,6/05/13 02:00,2.84E-07,522.7,1.7,-1.1,-12,116,Mar-13,,Mar-13,1362096000,77.5,8971
